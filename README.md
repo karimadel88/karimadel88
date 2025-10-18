@@ -1,8 +1,8 @@
 # Hi, I'm Karim Adel 👋
 
-**Backend Software Engineer @ Fawry · Legacy Modernization Advocate**
+**Backend Software Engineer @ Fawry
 
-I’m a Backend Software Engineer who specializes in migrating and modernizing enterprise systems — from legacy Java EE applications to modern, scalable architectures. I work across Spring Boot, JBoss/WildFly, and WebSphere, ensuring smooth transitions between platforms without disrupting business continuity.
+I’m a Backend Software Engineer who loves migrating and modernizing enterprise systems — from legacy Java EE applications to modern, scalable architectures. I work across Spring Boot, JBoss/WildFly, and WebSphere, ensuring smooth transitions between platforms without disrupting business continuity.
 
 I’m driven by solving complex technical challenges, whether it’s optimizing JVM performance, refactoring tightly coupled EJB modules, or integrating secure APIs and cryptographic workflows. I constantly research new tools, frameworks, and techniques to overcome tough engineering problems — choosing the right solution, not just the familiar one.
 
