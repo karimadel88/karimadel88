@@ -47,8 +47,6 @@ My focus is on building reliable, maintainable backend systems that evolve grace
 * Implemented **centralized logging and metrics** for Spring Boot without external ELK/Grafana dependencies
 * Designed **multi-database routing** and **dynamic caching** strategies for enterprise-scale systems
 * Built **event-driven Kafka flows** for asynchronous transaction processing
-* Developed **cryptographic utilities** for key management and encryption with HSM integration
-
 ---
 
 ## 🔄 Modernization Blueprint
